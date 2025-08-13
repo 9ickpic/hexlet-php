@@ -1,0 +1,18 @@
+{
+    "name": "y-selyutin/hexlet-php",
+    "description": "first hexlet php project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YSelyutin\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yaroslav Selyutin",
+            "email": "moontesearch@gmail.com"
+        }
+    ],
+    "require": {}
+}
